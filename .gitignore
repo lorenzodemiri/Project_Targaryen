@@ -5,3 +5,4 @@ Datasets/features.csv
 Datasets/train.csv
 Datasets/janestreet/__init__.py
 Datasets/janestreet/competition.cpython-37m-x86_64-linux-gnu.so
+Datasets/train.csv.hdf5
