@@ -56,8 +56,15 @@ Analysis and Prediction of Jane Street Market Prediction from Kaggle Competion
 
 12) Wait for my review and after that you can click on "*MERGE PULL REQUEST*"
 
-
 ***NB: DONT PUSH TO ORIGIN MAIN BUT ALWAYS PUSH ON YOUR BRANCH AND AFTER THAT CREATE A PULL REQUEST***
+## Guide How to Ignore the csv files:hammer:
+
+1) Be sure that you are working on your branch 
+
+2) Find and Select the file that you don't want to push
+
+3) If you are from terminal just type ( git check-ignore -v *PATH FILE* ) if you are on github desktop follow this easy and short [guide](https://caltechlibrary.github.io/git-desktop/05-ignore)
+
 
 ## Project Status :alarm_clock:
 Ongoing... Day 1 of 5 complete!
