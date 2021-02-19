@@ -20,23 +20,17 @@ def get_columns():
 
 df_train = vaex.from_csv("./Datasets/train.csv",
                          convert=True, chunk_size=3_000_000)
-print("Here")
 val_max = df_train.max(get_columns())
-print("1")
 val_min = df_train.min(get_columns())
-print("2")
 val_range = val_max - val_min
-print("1")
 del val_max
 gc.collect()
-print("4")
 features = [f'feature_{i}' for i in range(130)]
 filler = pd.Series(val_min - 0.01 * val_range, index=features)
 train = fill_missing(df_train.to_pandas_df(), filler)
 train['action'] = 0
 train.loc[train['resp'] > 0.0, 'action'] = 1
 train_v = vaex.from_pandas(train)
-print("5")
 del train
 gc.collect()
 s = Transformer(train_v=train_v)
