@@ -28,10 +28,10 @@ composed by...
 <img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter" width="200" >
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" width="123" >
 
-## **Computer Stats running our code**📊
+## **Computer Stats during Execution**📊
 <!--START_SECTION:waka-->
 ```text
-RAM              1TB over 1gb       ███████████████████████████   2033.803 %    
+RAM              1TB over 4gb       ███████████████████████████   2033.803 %    
 CPU              3.4 Ghz on 8 core  ██████████████░░░░░░░░░░░░░   50.607 %
 Disk             3Mb/s              ██████░░░░░░░░░░░░░░░░░░░░░   20.321 %
 Temp             1000 C°            ███████████████████████████   1500.454 %
