@@ -111,7 +111,7 @@ Ongoing... Day 5 of 5 complete!
 <img src="https://forthebadge.com/images/badges/powered-by-coders-sweat.svg" width="235">
 <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" width="200">
 
-and a Big Thanks to our teachers as well:https://github.com/javiabellan 
+and a Big Thanks to our teachers as well:
 ## [**Jan**](https://github.com/jcllobet), 
 ## [**Javi**](https://github.com/javiabellan)
 ## [**Antonio**.](https://github.com/AntonioMarsella) 
