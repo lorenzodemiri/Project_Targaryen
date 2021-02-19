@@ -4,9 +4,9 @@
 
 
 **Hello there!** 
-Here is our project wich consist on Analysis and Prediction of Jane Street Market Group Dataset from a Kaggle Competion that you can find -><a href="(https://www.kaggle.com/c/jane-street-market-prediction">
+Here is our project wich consist on Analysis and Prediction of Jane Street Market Group Dataset from a Kaggle Competion that you can find -> <a href="(https://www.kaggle.com/c/jane-street-market-prediction">
     <img src="https://www.janestreet.com/assets/logo_horizontal.png" width="100" >
-  </a><-.
+  </a> <-.
 
 ## **Who we are ?**
 
