@@ -8,7 +8,7 @@ Here is our project wich consist on Analysis and Prediction of Jane Street Marke
     <img src="https://www.janestreet.com/assets/logo_horizontal.png" width="100" >
   </a><-.
 
-### **Who we are ?**
+## **Who we are ?**
 
 We are a project team from Strive School, AI & ML Batch
   <a href="https://strive.school/">
@@ -22,13 +22,13 @@ composed by...
 >
 > ![LorenzoGit](https://img.shields.io/badge/Lorenzo-GitHub-100000?style=for-the-badge&logo=github&logoColor=white?link=https://github.com/lorenzodemiri/left&link=https://github.com/lorenzodemiri/right)
 
-### **Technologies Used in our Project**
+## **Technologies Used in our Project**
 
 <img src="https://forthebadge.com/images/badges/made-with-python.svg" width="190" >
 <img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter" width="200" >
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" width="123" >
 
-### **Computer Stats running our code**📊
+## **Computer Stats running our code**📊
 <!--START_SECTION:waka-->
 ```text
 RAM              1TB over 1gb       ███████████████████████████   2033.803 %    
@@ -44,7 +44,7 @@ Exec Time (mean) 12hours            ██████████████�
 > **WARNING:**
 >
 > :pencil: Be sure to read below to collab!
-### Syncing :checkered_flag:
+## Syncing :checkered_flag:
 
 1) Before starting the work of the day you have to sync with the last version of the MAIN BRANCH
 
@@ -62,7 +62,7 @@ Exec Time (mean) 12hours            ██████████████�
 
 8) git push origin "*YOURBRANCHNAME*"
 
-### Guide To Collaborate :hammer:
+## Guide To Collaborate :hammer:
 
 1) git clone https://github.com/lorenzodemiri/Project_Targaryen.git
 
@@ -94,7 +94,7 @@ Exec Time (mean) 12hours            ██████████████�
 12) Wait for my review and after that you can click on "*MERGE PULL REQUEST*"
 
 ***NB: DONT PUSH TO ORIGIN MAIN BUT ALWAYS PUSH ON YOUR BRANCH AND AFTER THAT CREATE A PULL REQUEST***
-### Guide How to Ignore the csv files:hammer:
+## Guide How to Ignore the csv files:hammer:
 
 1) Be sure that you are working on your branch 
 
@@ -103,15 +103,15 @@ Exec Time (mean) 12hours            ██████████████�
 3) If you are from terminal just type ( git check-ignore -v *PATH FILE* ) if you are on github desktop follow this easy and short [guide](https://caltechlibrary.github.io/git-desktop/05-ignore)
 
 
-### Project Status :alarm_clock:
+## Project Status :alarm_clock:
 Ongoing... Day 5 of 5 complete!
 
-### **A Special Thanks goes to:**
+## **A Special Thanks goes to:**
 
 <img src="https://forthebadge.com/images/badges/powered-by-coders-sweat.svg" width="235">
 <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" width="200">
 
 and a Big Thanks to our teachers as well:https://github.com/javiabellan 
-### [**Jan**](https://github.com/jcllobet), 
-### [**Javi**](https://github.com/javiabellan)
-### [**Antonio**.](https://github.com/AntonioMarsella) 
+## [**Jan**](https://github.com/jcllobet), 
+## [**Javi**](https://github.com/javiabellan)
+## [**Antonio**.](https://github.com/AntonioMarsella) 
