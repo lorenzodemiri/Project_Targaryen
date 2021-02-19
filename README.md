@@ -1,13 +1,50 @@
-# Project_Targaryen
-Analysis and Prediction of Jane Street Market Prediction from Kaggle Competion 
+# Project Targaryen 
+<img align = "center" src="https://media.giphy.com/media/SttjdhNoGHtLcwazpo/giphy.gif" width="300">
+
+
+
+**Hello there!** 
+Here is our project wich consist on Analysis and Prediction of Jane Street Market Group Dataset from a Kaggle Competion that you can find -><a href="(https://www.kaggle.com/c/jane-street-market-prediction">
+    <img src="https://www.janestreet.com/assets/logo_horizontal.png" width="100" >
+  </a><-.
+
+### **Who we are ?**
+
+We are a project team from Strive School, AI & ML Batch
+  <a href="https://strive.school/">
+    <img src="https://images.typeform.com/images/b2bYUGSFJFL6/image/default" width="50" align = "right" >
+  </a>
+composed by...
+>
+> ![LucaGit](https://img.shields.io/badge/Luca-GitHub-100000?style=for-the-badge&logo=github&logoColor=white?link=https://github.com/lpianta/left&link=https://github.com/lpianta/right)
+>
+> ![AderemiGit](https://img.shields.io/badge/Aderemi-GitHub-100000?style=for-the-badge&logo=github&logoColor=white?link=https://github.com/AderemiF)
+>
+> ![LorenzoGit](https://img.shields.io/badge/Lorenzo-GitHub-100000?style=for-the-badge&logo=github&logoColor=white?link=https://github.com/lorenzodemiri/left&link=https://github.com/lorenzodemiri/right)
+
+### **Technologies Used in our Project**
+
+<img src="https://forthebadge.com/images/badges/made-with-python.svg" width="190" >
+<img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter" width="200" >
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" width="123" >
+
+### **Computer Stats running our code:**📊 
+<!--START_SECTION:waka-->
+```text
+RAM              1TB over 1gb       ███████████████████████████   2033.803 %    
+CPU              3.4 Ghz on 8 core  ██████████████░░░░░░░░░░░░░   50.607 %
+Disk             3Mb/s              ██████░░░░░░░░░░░░░░░░░░░░░   20.321 %
+Temp             1000 C°            ███████████████████████████   1500.454 %
+Exec Time (mean) 12hours            ██████████████████████████████████████████████   3x10^90 %
+```
+<!--END_SECTION:waka-->
 
 
 >
-> **Important info:**
+> **WARNING:**
 >
-> :pencil: Be sure to read the README.md before starting to work with these repo, follow the instruction, and if there are any issue contact the *Lorenzo Demiri* to help you managing the repo
-
-## Syncing :checkered_flag:
+> :pencil: Be sure to read below to collab!
+### Syncing :checkered_flag:
 
 1) Before starting the work of the day you have to sync with the last version of the MAIN BRANCH
 
@@ -25,7 +62,7 @@ Analysis and Prediction of Jane Street Market Prediction from Kaggle Competion
 
 8) git push origin "*YOURBRANCHNAME*"
 
-## Guide To Collaborate :hammer:
+### Guide To Collaborate :hammer:
 
 1) git clone https://github.com/lorenzodemiri/Project_Targaryen.git
 
@@ -66,5 +103,15 @@ Analysis and Prediction of Jane Street Market Prediction from Kaggle Competion
 3) If you are from terminal just type ( git check-ignore -v *PATH FILE* ) if you are on github desktop follow this easy and short [guide](https://caltechlibrary.github.io/git-desktop/05-ignore)
 
 
-## Project Status :alarm_clock:
-Ongoing... Day 1 of 5 complete!
+### Project Status :alarm_clock:
+Ongoing... Day 5 of 5 complete!
+
+### **A Special Thanks goes to:**
+
+<img src="https://forthebadge.com/images/badges/powered-by-coders-sweat.svg" width="235">
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" width="200">
+
+and a Big Thanks to our teachers as well:https://github.com/javiabellan 
+### [**Jan**](https://github.com/jcllobet), 
+### [**Javi**](https://github.com/javiabellan)
+### [**Antonio**.](https://github.com/AntonioMarsella) 
