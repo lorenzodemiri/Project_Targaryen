@@ -28,7 +28,7 @@ composed by...
 <img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter" width="200" >
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" width="123" >
 
-### **Computer Stats running our code:**📊 
+### **Computer Stats running our code**📊
 <!--START_SECTION:waka-->
 ```text
 RAM              1TB over 1gb       ███████████████████████████   2033.803 %    
@@ -94,7 +94,7 @@ Exec Time (mean) 12hours            ██████████████�
 12) Wait for my review and after that you can click on "*MERGE PULL REQUEST*"
 
 ***NB: DONT PUSH TO ORIGIN MAIN BUT ALWAYS PUSH ON YOUR BRANCH AND AFTER THAT CREATE A PULL REQUEST***
-## Guide How to Ignore the csv files:hammer:
+### Guide How to Ignore the csv files:hammer:
 
 1) Be sure that you are working on your branch 
 
