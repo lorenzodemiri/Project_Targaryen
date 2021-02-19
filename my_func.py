@@ -6,7 +6,6 @@ from IPython.display import display
 import pandas as pd
 import vaex
 import gc
-import time
 
 def get_columns(string):
     res = []
@@ -30,8 +29,7 @@ class Transformer:
             train_v[sqrt] = np.sqrt(train_v[sh])
             print(".",end='')
         train_v.drop(get_columns('shift_feature_{}'), inplace=True)
-        
-        time.sleep(10)
+
         print("\nLoading Second Features\n")
         # From the Shap Dependence plots, the following features seem to have cubic relationship with target
         cubic = [37, 39, 67, 68, 89, 98, 99, 118, 119, 121, 124, 125, 127]
@@ -44,7 +42,6 @@ class Transformer:
             temp_v =  vaex.from_arrays(x = arr)
             train_v[string] = temp_v[:,0]
             print(".", i, end='')
-        time.sleep(10)
 
         print("\nLoading Third Features\n")
         # From the Shap Dependence plots, the following features seem to have quadratic relationship with target
@@ -101,27 +98,17 @@ class Transformer:
         temp = temp[temp.date < 300]
         temp = self.feature_transform(temp)
         temp = self.manipulate(temp)
-        time.sleep(20)
         feature = temp.get_column_names()
-        print(feature)
-        time.sleep(30)
         for i in ['action', 'resp', 'resp_1', 'resp_2', 'resp_3', 'resp_4']:
              feature.remove(i)
         
         selector = SelectKBest(f_classif, k=i)
-        time.sleep(10)
         print("selector done")
         X = temp.to_arrays(column_names=feature)
         y = self.train_v.to_arrays(column_names='action')
-        print(X8)
         temp_x = selector.fit_transform(X, y)
-        time.sleep(20)
-        print("Fitted")
         df_new = pd.DataFrame(selector.inverse_transform(temp_x), columns=feature)
-        time.sleep(20)
-        print("NEW")
         selected_features = df_new.columns[df_new.var() != 0]
-        print("OKKKKKK", selected_features)
         return selected_features
 
 
